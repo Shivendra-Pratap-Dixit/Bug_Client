@@ -40,7 +40,7 @@ const Home = () => {
         />
       </div>
       <p className="text-lg mt-4">
-        Welcome to the Bug Tracker! Here you can chat after login with your email and create a bug
+        Welcome to the Bug Tracker! Here you will reach bug after login with your email and create a bug
         report.
       </p>
       <style>
